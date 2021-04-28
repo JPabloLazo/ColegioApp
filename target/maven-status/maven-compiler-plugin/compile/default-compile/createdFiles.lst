@@ -1,0 +1,10 @@
+ar\com\eduit\curso\java\repositories\interfaces\I_AlumnoRepository.class
+ar\com\eduit\curso\java\enums\Dia.class
+ar\com\eduit\curso\java\repositories\jdbc\CursoRepository.class
+ar\com\eduit\curso\java\test\TestRepository.class
+ar\com\eduit\curso\java\enums\Turno.class
+ar\com\eduit\curso\java\entities\Alumno.class
+ar\com\eduit\curso\java\repositories\interfaces\I_CursoRepository.class
+ar\com\eduit\curso\java\connectors\Connector.class
+ar\com\eduit\curso\java\entities\Curso.class
+ar\com\eduit\curso\java\test\TestConnector.class
